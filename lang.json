@@ -1,0 +1,92 @@
+[
+    {
+        "Log": "Battle between {PLAYER 1} and {PLAYER 2} started!"
+    },
+    {
+        "Log": "Tier: {TIER (STRING)}"
+    },
+    {
+        "Log": "Mode: {SINGLES/DOUBLES}"
+    },
+    {
+        "Log": "Rule: {RULE}"
+    },
+    {
+        "Log": "{PLAYER} called Concubine back!",
+        "Replay": ""
+    },
+    {
+        "Log": "{PLAYER} sent out {POKEMON NAME}! ({POKEMON TYPE})"
+    },
+    {
+        "Log": "{PLAYER} sent out {POKEMON TYPE}!"
+    },
+    {
+        "Log": "{USER} is watching the battle.",
+        "Replay": "|j|{USER}"
+    },
+    {
+        "Log": "{USER} stopped watching the battle."
+    },
+    {
+        "Log": "{USER}: {MESSAGE}"
+    },
+    {
+        "Log": "Start of Turn {TURN}",
+        "Replay": "|turn|{TURN}"
+    },
+    {
+        "Log": "(?:The foe's )?{POKEMON NAME} used {MOVE}!"
+    },
+    {
+        "Log": "It's super effective!"
+    },
+    {
+        "Log": "It's not very effective..."
+    },
+    {
+        "Log": "A critical hit!"
+    },
+    {
+        "Log": "It had no effect on {POKEMON NAME}!"
+    },
+    {
+        "Log": "But it failed!"
+    },
+    {
+        "Log": "The(?:The foe's )? sandstorm rages."
+    },
+    {
+        "Log": "{POKEMON NAME (P1)} lost {HP POINTS} HP! ({HP PERCENTAGE}% of its health)"
+    },
+    {
+        "Log": "The foe's {POKEMON NAME (P2)} lost {HP PERCENTAGE}% of its health!"
+    },
+    {
+        "Log": "(?:The foe's )?{POKEMON NAME} restored a little HP using its Leftovers!"
+    },
+    {
+        "Log": "(?:The foe's )?{POKEMON NAME} fainted!"
+    },
+    {
+        "Log": "{POKEMON NAME} is buffeted by the sandstorm!"
+    },
+    {
+        "Log": "(?:The foe's )?{POKEMON NAME} protected itself!"
+    },
+    {
+        "Log": "(?:The foe's )?{POKEMON NAME} was hurt by poison!"
+    },
+    {
+        "Log": "Spikes were scattered all around the feet of {PLAYER}'s team!"
+    },
+    {
+        "Log": "(?:The foe's )?{POKEMON NAME} was dragged out!"
+    },
+    {
+        "Log": "{POKEMON NAME} flinched and couldn't move!"
+    },
+    {
+        "Log": "(?:The foe's )?{POKEMON NAME} intimidates {POKEMON NAME}!"
+    }
+]
