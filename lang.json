@@ -1,19 +1,21 @@
 [
     {
-        "Log": "Battle between {PLAYER 1} and {PLAYER 2} started!"
+        "Log": "Battle between {PLAYER1} and {PLAYER2} started!",
+        "Replay": "|player|p1|{PLAYER1}|{PLAYER1}|1000\n|player|p2|{PLAYER2}|{PLAYER2}|1000"
     },
     {
-        "Log": "Tier: {TIER (STRING)}"
+        "Log": "Tier: {TIER}\n"
     },
     {
-        "Log": "Mode: {SINGLES/DOUBLES}"
+        "Log": "Mode: {MODE}\n",
+        "Replay": "|gametype|{MODE}"
     },
     {
-        "Log": "Rule: {RULE}"
+        "Log": "Rule: {RULE}\n",
+        "Replay": "|rule|{RULE}"
     },
     {
-        "Log": "{PLAYER} called Concubine back!",
-        "Replay": ""
+        "Log": "{PLAYER} called Concubine back!"
     },
     {
         "Log": "{PLAYER} sent out {POKEMON NAME}! ({POKEMON TYPE})"
@@ -29,10 +31,11 @@
         "Log": "{USER} stopped watching the battle."
     },
     {
-        "Log": "{USER}: {MESSAGE}"
+        "Log": "{USER}: {MESSAGE}\n",
+        "Replay": "|c|{USER}|{MESSAGE}"
     },
     {
-        "Log": "Start of Turn {TURN}",
+        "Log": "Start of turn {TURN}",
         "Replay": "|turn|{TURN}"
     },
     {
